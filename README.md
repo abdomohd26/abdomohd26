@@ -110,18 +110,6 @@ RepliMe transforms any YouTube channel into an interactive AI chatbot using a fu
 
 </div>
 
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-[![Codeforces](https://img.shields.io/badge/Codeforces-Basdy-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Basdy)
-
-- 🥇 **ECPC Qualifier 2023 & 2024** — Egyptian Collegiate Programming Contest
-- 💡 Solving problems in algorithms, data structures & competitive programming
-
-</div>
 
 ---
 
