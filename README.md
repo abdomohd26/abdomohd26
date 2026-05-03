@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year **CS student** at **Cairo University** (GPA: 3.34/4.0)
+- 🎓 Final-year **CS student** at **Cairo University** (GPA: 3.36/4.0)
 - 💼 **AI Intern** at **Talentino AI** — building LLM-powered applications & computer vision systems
 - 🤖 Passionate about **NLP**, **Computer Vision**, **Agentic AI**, and **Backend Engineering**
 - ⚔️ Competitive programmer — **Pupil** on [Codeforces](https://codeforces.com/profile/Basdy)
@@ -76,7 +76,7 @@
 
 ## ⭐ Featured Project
 
-### 🤖 [RepliMe](https://github.com/abdomohd26) — AI-Powered YouTube Channel Chatbot Platform
+### 🤖 [RepliMe](https://github.com/Replime-org) — AI-Powered YouTube Channel Chatbot Platform
 > *Graduation Project*
 
 RepliMe transforms any YouTube channel into an interactive AI chatbot using a full **RAG (Retrieval-Augmented Generation)** pipeline. Users can have real conversations with a channel's content — powered by vector search and LLMs.
@@ -95,11 +95,6 @@ RepliMe transforms any YouTube channel into an interactive AI chatbot using a fu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdomohd26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdomohd26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
-
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=abdomohd26&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="60%"/>
 
