@@ -112,6 +112,6 @@ RepliMe transforms any YouTube channel into an interactive AI chatbot using a fu
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%"/>
 
-<sub>⭐ If you find my work interesting, feel free to star a repo!</sub>
+<p>⭐ If you find my work interesting, feel free to star a repo!</p>
 
 </div>
