@@ -32,7 +32,7 @@
 - 🎓 Final-year **CS student** at **Cairo University** (GPA: 3.34/4.0)
 - 💼 **AI Intern** at **Talentino AI** — building LLM-powered applications & computer vision systems
 - 🤖 Passionate about **NLP**, **Computer Vision**, **Agentic AI**, and **Backend Engineering**
-- ⚔️ Competitive programmer — **ECPC qualifier 2023 & 2024** on [Codeforces](https://codeforces.com/profile/Basdy)
+- ⚔️ Competitive programmer — **Pupil** on [Codeforces](https://codeforces.com/profile/Basdy)
 - 🌱 Currently deepening expertise in **RAG pipelines**, **LangGraph agents**, and **production ML systems**
 - 📫 Reach me at **boodymohammed26@gmail.com**
 
@@ -56,7 +56,7 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ⚙️ Backend & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -82,9 +82,9 @@
 RepliMe transforms any YouTube channel into an interactive AI chatbot using a full **RAG (Retrieval-Augmented Generation)** pipeline. Users can have real conversations with a channel's content — powered by vector search and LLMs.
 
 **Tech Stack:**
-`Angular` · `Spring Boot` · `FastAPI` · `Mistral-7B` · `LangChain` · `FAISS` · `RAG`
+`Angular` · `Spring Boot` · `FastAPI` · `Mistral-7B` · `LangChain` · `RAG`
 
-- 🎯 Ingests YouTube transcripts and builds a searchable vector knowledge base with **FAISS**
+- 🎯 Ingests YouTube transcripts and builds a searchable vector knowledge base
 - 💬 Serves context-aware responses using **Mistral-7B** via a LangChain RAG pipeline
 - 🔗 Full-stack architecture: Angular frontend, Spring Boot API gateway, FastAPI AI service
 - 📦 Designed for scalability with modular microservice separation
@@ -95,21 +95,20 @@ RepliMe transforms any YouTube channel into an interactive AI chatbot using a fu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abdomohd26&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abdomohd26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdomohd26&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdomohd26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdomohd26&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6e6e&currStreakLabel=58a6ff" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=abdomohd26&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="60%"/>
 
 <br/><br/>
 
-<!-- Contribution snake animation -->
-<img src="https://raw.githubusercontent.com/abdomohd26/abdomohd26/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+<!-- Contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdomohd26&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
 
 </div>
-
 
 ---
 
